@@ -140,3 +140,7 @@ th , td{
     left: 20px;
     bottom: 5px;
 }
+
+.output{
+    overflow: scroll;
+}
